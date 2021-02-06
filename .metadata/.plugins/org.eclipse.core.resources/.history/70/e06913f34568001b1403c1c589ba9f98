@@ -1,0 +1,9 @@
+package com.app;
+
+public class MyOtherJavaClass {
+	System.out.println("Hi ");
+	System.out.print("Hi print");
+	System.out.println("Hi ");
+	System.out.print("Hi print");
+
+}
